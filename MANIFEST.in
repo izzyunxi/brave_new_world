@@ -1,0 +1,3 @@
+graft brave_new_world
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  brave_new_world/jupy *
